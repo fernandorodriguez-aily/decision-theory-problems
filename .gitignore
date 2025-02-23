@@ -1,0 +1,23 @@
+*.DS_Store
+**/.vscode/
+**/.idea/
+
+**/.ipynb_checkpoints/
+**/__pycache__/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Package
+**/wikipedia_markdown.egg-info/
+
+# Outputs
+data/
+openai_batch_job_files/
+openai_batch_job_results/
