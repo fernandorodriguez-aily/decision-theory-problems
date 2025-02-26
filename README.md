@@ -5,6 +5,7 @@ This repository contains a collection of decision theory problems, each located 
 ## Problems
 - [**Oil Field Purchase**](problems/oil_field_purchase): An oil company evaluates purchasing an oil field under uncertainty.
 - [**Ride-Hailing Subscription Service**](problems/ride_hailing): A ride-hailing company considers offering a subscription model where customers pay a fixed monthly fee for priority booking, ride credits, and exclusive discounts.
+- [**Automated Logistics Center**](problems/automated_logistics_center):  A major e-commerce company that is considering upgrading one of its logistics centers.
 
 ## Setup
 This project uses UV as the package manager. To set up the project:
